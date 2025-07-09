@@ -250,3 +250,42 @@ main{
 }
 
 /* Resume End */
+
+/* Footer Start */
+
+footer{
+    background-color: #FFF8F3;
+    align-items: center;
+    padding: 100px ;
+}
+
+.footer-box{
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-text{
+    max-width: 50%;
+}
+
+.footer-text p{
+    margin: 20px 0;
+}
+
+.inbox-me *{
+    margin-bottom: 20px ;
+}
+
+.inbox-me{
+    max-width: 50%;
+}
+
+.input-text{
+    width: 400px ;
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: white;
+}
