@@ -187,6 +187,7 @@ main{
 
 .skill-item{
     max-width: 267px ;
+    max-height: 377px;
     background-color: white;
     border-radius: 5px;
     padding: 20px ;
@@ -204,3 +205,48 @@ main{
     font-size: 16px;
     color: #757575;
 }
+
+/* Skills End */
+
+/* Resume start */
+
+.resume{
+    margin-bottom: 130px ;
+}
+
+.resume-text{
+    margin-bottom: 110px ;
+    text-align: center;
+}
+.resume-items{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.resume-item *{
+    margin-bottom: 15px;
+}
+
+.resume-item{
+    margin-top: 30px;
+}
+
+.resume-title{
+    color: #474747;
+    font-size: 25px ;
+    font-weight: bold;
+}
+
+.resume-subtitle{
+    color: #757575;
+    font-size: 20px ;
+    font-weight: 500;
+}
+
+.resume-btn{
+    text-align: center;
+    margin-top: 30px ;
+}
+
+/* Resume End */
